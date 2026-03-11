@@ -9,8 +9,7 @@ This repository directly improves upon the underlying methodologies explored in 
 ## 📈 The Baseline Paper vs. Our Methodology
 
 This project methodology uses the dataset parameters and model baseline architectures prescribed by the following academic paper:
-> **Agrawal, M.; Shukla, P.K.; Nair, R.; Nayyar, A.; Masud, M.** *"Comparative Analysis of Deep Learning Models for Stock Price Prediction in the Indian Market"*. Preprints 2021, 2021100067. https://doi.org/10.20944/preprints202110.0067.v1
-
+> Barua, M.; Kumar, T.; Raj, K.; Roy, A.M. Comparative Analysis of Deep Learning Models for Stock Price Prediction in the Indian Market. FinTech 2024, 3, 551-568. https://doi.org/10.3390/fintech3040029
 While the authors of the referenced paper struggled with model collapse and negative $R^2$ values during the highly volatile 2020-2021 market shift, **our improved workflow achieved state-of-the-art stability and predictive accuracy.**
 
 ### How We Crushed the Paper's Accuracies
